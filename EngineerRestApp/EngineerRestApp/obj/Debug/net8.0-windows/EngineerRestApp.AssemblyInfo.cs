@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EngineerRestApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d182c1d45bf1b2830a328c286c714168c8f8e86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a492dd3673574e32b221140e8a099744d27ec325")]
 [assembly: System.Reflection.AssemblyProductAttribute("EngineerRestApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EngineerRestApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
